@@ -1,0 +1,23 @@
+{
+  "mcp-aws": {
+    "version": "v1.0.0.0",
+    "release-message": "intial version"
+  },
+  "mcp-github": {
+    "version": "v1.0.0.0",
+    "release-message": "intial version"
+  },
+  "mcp-gitlab": {
+    "version": "v1.0.0.0",
+    "release-message": "intial version"
+  },
+  "mcp-grafana": {
+    "version": "v1.0.0.0",
+    "release-message": "intial version"
+  },
+  "mcp-jira": {
+    "version": "v1.0.0.0",
+    "release-message": "intial version"
+  }
+}
+
