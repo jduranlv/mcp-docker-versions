@@ -1,27 +1,27 @@
 {
   "mcp-aws": {
-    "release-message": "Initial version",
-    "sha": "sha256:b237362c0d1d0606d3092df70c40bfad6d92e640c8494ce75e1b24c5ed255c86",
-    "version": "v20260727214229"
+    "release-message": "Initial release",
+    "sha": "sha256:444fa6a55bf61c72d4638f4c8ca7602d835edba0e883408f551e66447b7529cb",
+    "version": "v20260727215005"
   },
   "mcp-github": {
-    "release-message": "Initial version",
-    "sha": "sha256:bbec3dc2fdd1034bc25d7b5a9a3b04bd5b7e511938871787a48006460b7e4bf1",
-    "version": "v20260727214229"
+    "release-message": "Initial release",
+    "sha": "sha256:7000de7fde093a2d8b61111d38d5874d86f3212a0518aac7f11db18f5ff99bfe",
+    "version": "v20260727215005"
   },
   "mcp-gitlab": {
-    "release-message": "Initial version",
-    "sha": "sha256:1b0b2c82c0fd913c32c682762d3af03a151656772259fb6983f701f6bc9f27dd",
-    "version": "v20260727214229"
+    "release-message": "Initial release",
+    "sha": "sha256:5b00a48f40ddd46a51a33208465426b4b4a5a2caadcae30468442be9ac6ebbc7",
+    "version": "v20260727215005"
   },
   "mcp-grafana": {
-    "release-message": "Initial version",
-    "sha": "sha256:b8717e4424c54a1d2bc380bd406b63bb6bca2e3d14164c9e69af15e8535ab3e7",
-    "version": "v20260727214229"
+    "release-message": "Initial release",
+    "sha": "sha256:1dcb99b945a1512d71bea4346abdd6f69a75cfdf4a70921c1b85134f2600a776",
+    "version": "v20260727215005"
   },
   "mcp-jira": {
-    "release-message": "Initial version",
-    "sha": "sha256:85cbca8abd3169595b6f463c955215a3489098f6b561eb2245c2f84f6bbe4ca5",
-    "version": "v20260727214229"
+    "release-message": "Initial release",
+    "sha": "sha256:4b440e1b603e934e316fb57c66e34c1bfb4c4597274b0606173279523483511e",
+    "version": "v20260727215005"
   }
 }
