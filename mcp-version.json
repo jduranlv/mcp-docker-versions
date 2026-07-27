@@ -1,27 +1,27 @@
 {
   "mcp-aws": {
-    "release-message": "Improved mcp version notification",
-    "sha": "sha256:b12fb7c3d5effab4f6a7922e3a96889151f00f50a774e17ea563b75546920cb6",
-    "version": "v20260727222339"
+    "release-message": "Bypassed Github cache of mcp version notifier",
+    "sha": "sha256:28b16cdfa27e9aa82504f826140d4311f7347c842ca708159029c9fc160191ca",
+    "version": "v20260727223828"
   },
   "mcp-github": {
-    "release-message": "Improved mcp version notification",
-    "sha": "sha256:d410cd0d6fb551b0849f2b69ad904e1ca930ce908dc3e11e8b07d18c5059c1ed",
-    "version": "v20260727222339"
+    "release-message": "Bypassed Github cache of mcp version notifier",
+    "sha": "sha256:43abbc13cb05994dee6497a0abf36c3cd63a9529cc259e32fec5e32f932ac2db",
+    "version": "v20260727223828"
   },
   "mcp-gitlab": {
-    "release-message": "Improved mcp version notification",
-    "sha": "sha256:c307eca41f2bfe8c96a21d44aa56846e0b8df4871c4f48e11df29c5a022871fd",
-    "version": "v20260727222339"
+    "release-message": "Bypassed Github cache of mcp version notifier",
+    "sha": "sha256:52c977814bc7bb2747f2382c1597c1132356e5e3248ba4f86fec1f4a4c64a7e9",
+    "version": "v20260727223828"
   },
   "mcp-grafana": {
-    "release-message": "Improved mcp version notification",
-    "sha": "sha256:ce764759780f042b14fb6238d165529f93f3e9d215c517a927304c5535254586",
-    "version": "v20260727222339"
+    "release-message": "Bypassed Github cache of mcp version notifier",
+    "sha": "sha256:517450e4be3ac3a1881283326318b406f20b312231d18f9b7b9d566ef21de846",
+    "version": "v20260727223828"
   },
   "mcp-jira": {
-    "release-message": "Initial release",
-    "sha": "sha256:1c6aa7bad2d83d90d73973e43c7fd8ef02ba765bc907e206fcf5b1c47244272e",
-    "version": "v20260727223044"
+    "release-message": "Bypassed Github cache of mcp version notifier",
+    "sha": "sha256:41f307e8df9d048598c63d09c15aef60bdeb1f87cd5421a4fd8fe01039608b52",
+    "version": "v20260727223828"
   }
 }
