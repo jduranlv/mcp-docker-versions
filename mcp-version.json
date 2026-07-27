@@ -20,8 +20,8 @@
     "version": "v20260727222339"
   },
   "mcp-jira": {
-    "release-message": "Improved mcp version notification",
-    "sha": "sha256:3ad784b4361e4bfe21d8997f54cec94868ceef630d33644ae817b5031256ca4b",
-    "version": "v20260727222339"
+    "release-message": "Initial release",
+    "sha": "sha256:1c6aa7bad2d83d90d73973e43c7fd8ef02ba765bc907e206fcf5b1c47244272e",
+    "version": "v20260727223044"
   }
 }
