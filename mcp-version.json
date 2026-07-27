@@ -1,27 +1,27 @@
 {
   "mcp-aws": {
-    "release-message": "[build-helper] pushing 5 image(s) in parallel (concurrency=4)",
+    "release-message": "Initial release",
     "sha": "sha256:d705e995670f8a077479840358c0efe9298eb4a94c27c1eaac390ddfda89b012",
-    "version": "v20260727212512"
+    "version": "v20260727212600"
   },
   "mcp-github": {
-    "release-message": "[build-helper]   → pushing ghcr.io/jduranlv/mcp-aws:latest",
+    "release-message": "Initial release",
     "sha": "sha256:83f21bc276f0b682bff6e2325bf21e4a494344a3bcb01a930590a88d9329fcd1",
-    "version": "v20260727212512"
+    "version": "v20260727212600"
   },
   "mcp-gitlab": {
-    "release-message": "[build-helper]   → pushing ghcr.io/jduranlv/mcp-github:latest",
+    "release-message": "Initial release",
     "sha": "sha256:2a0d559eaac82fc422d43e7fce5ec833d0d2d3dc84e64b6d0aa61ee0c0e0c081",
-    "version": "v20260727212512"
+    "version": "v20260727212600"
   },
   "mcp-grafana": {
-    "release-message": "[build-helper]   → pushing ghcr.io/jduranlv/mcp-gitlab:latest",
+    "release-message": "Initial release",
     "sha": "sha256:e7cb331511440c8eabcc0ad52844684662159c4d29f2339d84c1251d273813fb",
-    "version": "v20260727212512"
+    "version": "v20260727212600"
   },
   "mcp-jira": {
-    "release-message": "[build-helper]   → pushing ghcr.io/jduranlv/mcp-grafana:latest",
+    "release-message": "Initial release",
     "sha": "sha256:15925651ee440c7d3fcafbf75095d3db7cfd22c33d83d346f234502fbe7a4190",
-    "version": "v20260727212512"
+    "version": "v20260727212600"
   }
 }
