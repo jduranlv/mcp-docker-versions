@@ -21,7 +21,7 @@
   },
   "mcp-jira": {
     "release-message": "Initial release",
-    "sha": "sha256:4b440e1b603e934e316fb57c66e34c1bfb4c4597274b0606173279523483511e",
-    "version": "v20260727215005"
+    "sha": "sha256:66d365dd220706e20042820c3157a3fd9d1a36c456f35c9079eb8ccc85f2a723",
+    "version": "v20260727221636"
   }
 }
