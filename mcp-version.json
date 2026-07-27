@@ -21,7 +21,7 @@
   },
   "mcp-jira": {
     "release-message": "Bypassed Github cache of mcp version notifier",
-    "sha": "sha256:41f307e8df9d048598c63d09c15aef60bdeb1f87cd5421a4fd8fe01039608b52",
-    "version": "v20260727223828"
+    "sha": "sha256:c92f33f388d081269b19df4126db3a2c5447d5ea79dae323f77823dd0ff48023",
+    "version": "v20260727223936"
   }
 }
