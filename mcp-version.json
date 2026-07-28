@@ -1,27 +1,32 @@
 {
   "mcp-aws": {
-    "release-message": "Improved mcp version notifier",
-    "sha": "sha256:5a70da16c44afcfb221a917d2d5f78e8a44d203ad97179f2ce3ba7266e58b223",
-    "version": "v20260728151101"
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:1ac666eda3b7b506cb9d2ac2f2e88e68d8557a900efb0175bc44cafa6fd208d3",
+    "version": "v20260728163118"
   },
   "mcp-github": {
-    "release-message": "Improved mcp version notifier",
-    "sha": "sha256:cba2f57621b615becf9d4f34abac0773cd2b67d1ad6159bba2ce4ff52bf5b883",
-    "version": "v20260728151101"
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:69449d28b2fe25a1d098de80ad8216d2036ddc30039d1ed4e656303ea6021e95",
+    "version": "v20260728163118"
   },
   "mcp-gitlab": {
-    "release-message": "Improved mcp version notifier",
-    "sha": "sha256:8ab97dfff01ff169dc191d285813c6af8d6e5dfeb09df34bfda0e794d8526fd7",
-    "version": "v20260728151101"
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:e2bcd7a08bcbd83f770d2c93b698fa3d63d09dca9a38e7f17a625b0a42a559c3",
+    "version": "v20260728163118"
   },
   "mcp-grafana": {
-    "release-message": "Improved mcp version notifier",
-    "sha": "sha256:dc12a253b92c2009eb87724a55f4563ba74b916ec5032277a6733652bb3fc5dd",
-    "version": "v20260728151101"
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:1cd320254cea88bb59b98ab05c468697fe598867f69ad91909785d62829912c0",
+    "version": "v20260728163118"
   },
   "mcp-jira": {
-    "release-message": "Improved mcp version notifier",
-    "sha": "sha256:061016ee0042cf5b6501b4cc08d4877b4ebf0a7fc557e45d6b5b1110f6e480da",
-    "version": "v20260728151101"
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:8888e34117530ffb670158c5db406d22a5fd5be25a14e4dd4fabb203b1f2ee80",
+    "version": "v20260728163118"
+  },
+  "mcp-opensearch": {
+    "release-message": "version standarization to match new Opensearch mcp",
+    "sha": "sha256:b79e5bf5fdc7ac4f8ebdb104fc8032c85e86aced36b286a6738292efd65c8ee7",
+    "version": "v20260728163118"
   }
 }
