@@ -20,9 +20,9 @@
     "version": "v20260728163118"
   },
   "mcp-jira": {
-    "release-message": "Added comment, assign, and status change features.",
-    "sha": "sha256:cbd3d9b2551b3b4aa70ced3a461a6a11795d82a7bded26d747c3daaf0b2b16da",
-    "version": "v20260728182850"
+    "release-message": "Added broader write features to jira mcp",
+    "sha": "sha256:e93038a13161b10776f2207ebe650caf7ce378adb443c45757f4bf8a3c3a2ca1",
+    "version": "v20260728205014"
   },
   "mcp-opensearch": {
     "release-message": "version standarization to match new Opensearch mcp",
