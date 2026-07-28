@@ -1,8 +1,8 @@
 {
   "mcp-aws": {
-    "release-message": "version standarization to match new Opensearch mcp",
-    "sha": "sha256:1ac666eda3b7b506cb9d2ac2f2e88e68d8557a900efb0175bc44cafa6fd208d3",
-    "version": "v20260728163118"
+    "release-message": "Improved batch decision making for AI host",
+    "sha": "sha256:7ae059d9bb3e0051b37e4a1ae32c6837a01b8a14ad8220fc5ec1068fca86f1d7",
+    "version": "v20260728214944"
   },
   "mcp-github": {
     "release-message": "version standarization to match new Opensearch mcp",
