@@ -20,9 +20,9 @@
     "version": "v20260728163118"
   },
   "mcp-jira": {
-    "release-message": "version standarization to match new Opensearch mcp",
-    "sha": "sha256:8888e34117530ffb670158c5db406d22a5fd5be25a14e4dd4fabb203b1f2ee80",
-    "version": "v20260728163118"
+    "release-message": "Added comment, assign, and status change features.",
+    "sha": "sha256:cbd3d9b2551b3b4aa70ced3a461a6a11795d82a7bded26d747c3daaf0b2b16da",
+    "version": "v20260728182850"
   },
   "mcp-opensearch": {
     "release-message": "version standarization to match new Opensearch mcp",
