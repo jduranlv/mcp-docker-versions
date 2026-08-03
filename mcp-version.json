@@ -20,9 +20,9 @@
     "version": "v20260728163118"
   },
   "mcp-jira": {
-    "release-message": "improved cloning feature",
-    "sha": "sha256:af8d30e6774efef4c2bb7e4c23fc2e6a15af1034d339a45e2dd6abda91b1d205",
-    "version": "v20260729222306"
+    "release-message": "Improved cloning feature",
+    "sha": "sha256:7a45579c22b6241bbe91c49279851d1480cff11294b8b3dcc029f5162dd95ad2",
+    "version": "v20260803211153"
   },
   "mcp-opensearch": {
     "release-message": "version standarization to match new Opensearch mcp",
