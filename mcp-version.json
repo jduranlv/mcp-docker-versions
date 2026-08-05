@@ -25,8 +25,8 @@
     "version": "v20260803211153"
   },
   "mcp-opensearch": {
-    "release-message": "version standarization to match new Opensearch mcp",
-    "sha": "sha256:b79e5bf5fdc7ac4f8ebdb104fc8032c85e86aced36b286a6738292efd65c8ee7",
-    "version": "v20260728163118"
+    "release-message": "Added template ism policies and other GET features",
+    "sha": "sha256:19d863e1ff7f643aa8c43232982cf62573550f532b81b44c781dc48e6e6f637a",
+    "version": "v20260805234959"
   }
 }
