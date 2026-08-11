@@ -5,9 +5,9 @@
     "version": "v20260811161119"
   },
   "mcp-github": {
-    "release-message": "Added cxone orgs and features",
-    "sha": "sha256:81210b3aab1a3ac6147f7c91a63fc5a707d2586103d46419a7e0f377c0d16a2f",
-    "version": "v20260810190119"
+    "release-message": "Added github actions support",
+    "sha": "sha256:1ffbf5a560214da52a9bdda7a633f6ffc797eb3755bc6f1933c406a8bad7caf0",
+    "version": "v20260811173125"
   },
   "mcp-gitlab": {
     "release-message": "version standarization to match new Opensearch mcp",
