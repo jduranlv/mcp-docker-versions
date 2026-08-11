@@ -1,8 +1,8 @@
 {
   "mcp-aws": {
-    "release-message": "Improved batch decision making for AI host",
-    "sha": "sha256:7ae059d9bb3e0051b37e4a1ae32c6837a01b8a14ad8220fc5ec1068fca86f1d7",
-    "version": "v20260728214944"
+    "release-message": "Added aws sso for cxone accounts",
+    "sha": "sha256:402f545ccb2ea605704882b9bbfbb9244a611348ba72ccaefd0235c25f9e6ad0",
+    "version": "v20260811161119"
   },
   "mcp-github": {
     "release-message": "Added cxone orgs and features",
