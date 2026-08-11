@@ -5,9 +5,9 @@
     "version": "v20260811161119"
   },
   "mcp-github": {
-    "release-message": "Added repo, package, invite support",
-    "sha": "sha256:ed21b24ac90bf56d7ca54363d6ab652632622d119ac3ecf7726e7157b1b02127",
-    "version": "v20260811192059"
+    "release-message": "Added write access to user's repos only",
+    "sha": "sha256:414d9de51913a0e0bde101483a7a289875d7b22ea0e021afeb592ea9be37daa7",
+    "version": "v20260811225107"
   },
   "mcp-gitlab": {
     "release-message": "version standarization to match new Opensearch mcp",
