@@ -1,32 +1,37 @@
 {
   "mcp-aws": {
-    "release-message": "Added aws sso for cxone accounts",
-    "sha": "sha256:402f545ccb2ea605704882b9bbfbb9244a611348ba72ccaefd0235c25f9e6ad0",
-    "version": "v20260811161119"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:d51a4bded3dcab936065638f26a03cd245b11fd4154eac7a704163277ab96164",
+    "version": "v20260812002641"
+  },
+  "mcp-confluence": {
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:d486f82adf821efcec2d3ff46cb0057081462b585faf7f7ddea29bbfea78b833",
+    "version": "v20260812002641"
   },
   "mcp-github": {
-    "release-message": "Added write access to user's repos only",
-    "sha": "sha256:414d9de51913a0e0bde101483a7a289875d7b22ea0e021afeb592ea9be37daa7",
-    "version": "v20260811225107"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:871ca6e8bfcacec0d6552ecfd1b8a79a056775168d9e1af2c947b07db3cc4c2f",
+    "version": "v20260812002641"
   },
   "mcp-gitlab": {
-    "release-message": "version standarization to match new Opensearch mcp",
-    "sha": "sha256:e2bcd7a08bcbd83f770d2c93b698fa3d63d09dca9a38e7f17a625b0a42a559c3",
-    "version": "v20260728163118"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:839bfade8757177245698c4f4e7b78b42714dfe68970c2618bd65cbdb998e893",
+    "version": "v20260812002641"
   },
   "mcp-grafana": {
-    "release-message": "version standarization to match new Opensearch mcp",
-    "sha": "sha256:1cd320254cea88bb59b98ab05c468697fe598867f69ad91909785d62829912c0",
-    "version": "v20260728163118"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:cbc89d281624453942374273eeb176f2b38b13651144a6cf57e3942820010649",
+    "version": "v20260812002641"
   },
   "mcp-jira": {
-    "release-message": "Improved cloning feature",
-    "sha": "sha256:7a45579c22b6241bbe91c49279851d1480cff11294b8b3dcc029f5162dd95ad2",
-    "version": "v20260803211153"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:bab6d6c57673ab4ed5b5ae3c9bececd2bbcbea834b7ea14ee579fab5db2319f4",
+    "version": "v20260812002641"
   },
   "mcp-opensearch": {
-    "release-message": "Added template ism policies and other GET features",
-    "sha": "sha256:19d863e1ff7f643aa8c43232982cf62573550f532b81b44c781dc48e6e6f637a",
-    "version": "v20260805234959"
+    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
+    "sha": "sha256:761b47ff29164974ab3c61a029c4801e84d7c9e5aa38ad236051ddddf8660fa2",
+    "version": "v20260812002641"
   }
 }
