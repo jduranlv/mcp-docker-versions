@@ -15,9 +15,9 @@
     "version": "v20260812002641"
   },
   "mcp-gitlab": {
-    "release-message": "added features for deployments",
-    "sha": "sha256:97b3460e7a3d4fd1afcfe7e6b15ff93607f225773d76ea4df3a183fc4cea6cb1",
-    "version": "v20260812173839"
+    "release-message": "Added folders creations support",
+    "sha": "sha256:ec78d7cd044417848354a60540a6f1b1b18bf7dd38c8dbf8e0ee97bfee2b62d6",
+    "version": "v20260814131530"
   },
   "mcp-grafana": {
     "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
