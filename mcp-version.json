@@ -1,37 +1,42 @@
 {
+  "mcp-argocd": {
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:3b55ee1164d6159987c140cbb1d064002154c8a58481e7af9f2255b3bc32cc3e",
+    "version": "v20260815030055"
+  },
   "mcp-aws": {
-    "release-message": "Fixed aws token bug",
-    "sha": "sha256:a88a45fd65265efe71d75c9322b025f38b39f41fc871bb651dc855d8bf60fa11",
-    "version": "v20260812143247"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:a3f6576f9d83e082b0c6daa7731bb36db14fc3471eb5c75388af5b9651ebf199",
+    "version": "v20260815030055"
   },
   "mcp-confluence": {
-    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
-    "sha": "sha256:d486f82adf821efcec2d3ff46cb0057081462b585faf7f7ddea29bbfea78b833",
-    "version": "v20260812002641"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:d152dc42bdc7fbd657e95abf84dc9ae69cf2d9c01ce2fa8f7c3e5ecafbcdff2f",
+    "version": "v20260815030055"
   },
   "mcp-github": {
-    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
-    "sha": "sha256:871ca6e8bfcacec0d6552ecfd1b8a79a056775168d9e1af2c947b07db3cc4c2f",
-    "version": "v20260812002641"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:126526b51a14da7bd4db002defc629207a13b857aa8f6295deec6ee04d2b4f93",
+    "version": "v20260815030055"
   },
   "mcp-gitlab": {
-    "release-message": "Added folders creations support",
-    "sha": "sha256:ec78d7cd044417848354a60540a6f1b1b18bf7dd38c8dbf8e0ee97bfee2b62d6",
-    "version": "v20260814131530"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:3d4057034ad535eed064d107156840b2d02d231605ad5c4e0b84684dcd450f60",
+    "version": "v20260815030055"
   },
   "mcp-grafana": {
-    "release-message": "Rebase the release version to pick up the new Confluence MCP support for CXone and LiveVox",
-    "sha": "sha256:cbc89d281624453942374273eeb176f2b38b13651144a6cf57e3942820010649",
-    "version": "v20260812002641"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:27dd698da3a8f0ae8a5e38fb8a873ce2741ebc5f7176ad70f19f48ac5f4c5b3e",
+    "version": "v20260815030055"
   },
   "mcp-jira": {
-    "release-message": "added features for transition of tickets",
-    "sha": "sha256:7409a678075fc3b7ba5c6df8c7b11d6ac783f4345065ce26193318a370a2ca0d",
-    "version": "v20260812173839"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:502e1a8cadeb79456df14b3fb0fecd172614623c92f70a8dbf36f2cda8ee92f0",
+    "version": "v20260815030055"
   },
   "mcp-opensearch": {
-    "release-message": "Fixed aws token bug",
-    "sha": "sha256:ba2be0e5c561c5486e9f662ece31717cd894c700af4e60a50c38b826977a46bb",
-    "version": "v20260812143247"
+    "release-message": "Added argocd mcp - rebased the repo",
+    "sha": "sha256:337a96fe22188a2426425b236eba7cca0d3908654f7b096b658a4fbc3c1f5a0e",
+    "version": "v20260815030055"
   }
 }
