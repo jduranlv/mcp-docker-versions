@@ -1,42 +1,42 @@
 {
   "mcp-argocd": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:3b55ee1164d6159987c140cbb1d064002154c8a58481e7af9f2255b3bc32cc3e",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search",
+    "sha": "sha256:6b7d4e7748d09a002858dda7d9f8e4aa57055c31fdccee8651e2b36ba3c73a14",
+    "version": "v20260815032347"
   },
   "mcp-aws": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:a3f6576f9d83e082b0c6daa7731bb36db14fc3471eb5c75388af5b9651ebf199",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:03e30e173dc788d97de60b0eb9fa5c1f45e646b0e62f1493292dab41bd4ed9b5",
+    "version": "v20260815032347"
   },
   "mcp-confluence": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:d152dc42bdc7fbd657e95abf84dc9ae69cf2d9c01ce2fa8f7c3e5ecafbcdff2f",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:31b50908f73d507a5c5bb9dc6002ef7aa106a37c0676deb5216e18aabeed5d3f",
+    "version": "v20260815032347"
   },
   "mcp-github": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:126526b51a14da7bd4db002defc629207a13b857aa8f6295deec6ee04d2b4f93",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:465c1f0ea22dbca93de5a532d58309a03785731b2e1c430550f4f4cbc90e1190",
+    "version": "v20260815032347"
   },
   "mcp-gitlab": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:3d4057034ad535eed064d107156840b2d02d231605ad5c4e0b84684dcd450f60",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:c9435440b81f704938d29f4e1617ab018ef60047bc0d787f1cacd28576f4254d",
+    "version": "v20260815032347"
   },
   "mcp-grafana": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:27dd698da3a8f0ae8a5e38fb8a873ce2741ebc5f7176ad70f19f48ac5f4c5b3e",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:99df60778c633dc5572a9fdf7bc11107ebec20d3f372df5810a039d98481a190",
+    "version": "v20260815032347"
   },
   "mcp-jira": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:502e1a8cadeb79456df14b3fb0fecd172614623c92f70a8dbf36f2cda8ee92f0",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:dfba5c42098ec8232feb6eef8f138ad15bd9b573b9e51b843d538d1c5b9d0ed6",
+    "version": "v20260815032347"
   },
   "mcp-opensearch": {
-    "release-message": "Added argocd mcp - rebased the repo",
-    "sha": "sha256:337a96fe22188a2426425b236eba7cca0d3908654f7b096b658a4fbc3c1f5a0e",
-    "version": "v20260815030055"
+    "release-message": "improved argocd app search - rebased",
+    "sha": "sha256:445a139d41375165cb9e9051ffe1d45aa968fa04265a7d2a8b4b3dc0bc3b5ffe",
+    "version": "v20260815032347"
   }
 }
