@@ -1,8 +1,8 @@
 {
   "mcp-argocd": {
-    "release-message": "improved argocd app search",
-    "sha": "sha256:6b7d4e7748d09a002858dda7d9f8e4aa57055c31fdccee8651e2b36ba3c73a14",
-    "version": "v20260815032347"
+    "release-message": "Fixed tls issue and added log and event searching features",
+    "sha": "sha256:5cff39c4dfe4566a0c61588d1d5ae7ea785091d9679593c167dbfe3bbf7a9a3d",
+    "version": "v20260818145133"
   },
   "mcp-aws": {
     "release-message": "improved argocd app search - rebased",
