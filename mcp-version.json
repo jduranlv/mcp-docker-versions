@@ -1,42 +1,42 @@
 {
   "mcp-argocd": {
-    "release-message": "Fixed tls issue and added log and event searching features",
-    "sha": "sha256:5cff39c4dfe4566a0c61588d1d5ae7ea785091d9679593c167dbfe3bbf7a9a3d",
-    "version": "v20260818145133"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:08de05794f0702be7d0094b3f9f719dcb7fa1f9c909b1b36eac6236df6adbe98",
+    "version": "v20260819003214"
   },
   "mcp-aws": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:03e30e173dc788d97de60b0eb9fa5c1f45e646b0e62f1493292dab41bd4ed9b5",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:bc94a6b2e97b576951e70bb9f5309dcfb45119a682e958e00c3fe0dfb69caddd",
+    "version": "v20260819003214"
   },
   "mcp-confluence": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:31b50908f73d507a5c5bb9dc6002ef7aa106a37c0676deb5216e18aabeed5d3f",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:5ea660c40e6b0e10bc79afb6ebc6ccf695431c1ca5ef813bbcd11225505f16f0",
+    "version": "v20260819003214"
   },
   "mcp-github": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:465c1f0ea22dbca93de5a532d58309a03785731b2e1c430550f4f4cbc90e1190",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:8ece0d51dfc3b3cc3b7c637f026d296733c43c423b9e3c5d2cdd75c57d977e6d",
+    "version": "v20260819003214"
   },
   "mcp-gitlab": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:c9435440b81f704938d29f4e1617ab018ef60047bc0d787f1cacd28576f4254d",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:5c6d9a2c4634e96629677c94a631a7c29bb15f8647f177960257975568aae436",
+    "version": "v20260819003214"
   },
   "mcp-grafana": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:99df60778c633dc5572a9fdf7bc11107ebec20d3f372df5810a039d98481a190",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:97ad1586c2cb3ce10b30f89461d1b11c65bbafab5ba1e362f23b7a0815a16fd2",
+    "version": "v20260819003214"
   },
   "mcp-jira": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:dfba5c42098ec8232feb6eef8f138ad15bd9b573b9e51b843d538d1c5b9d0ed6",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:a5468726b31dbeb1a84a1c6fd5c3995078149e0f6646e4641677a06a8d394371",
+    "version": "v20260819003214"
   },
   "mcp-opensearch": {
-    "release-message": "improved argocd app search - rebased",
-    "sha": "sha256:445a139d41375165cb9e9051ffe1d45aa968fa04265a7d2a8b4b3dc0bc3b5ffe",
-    "version": "v20260815032347"
+    "release-message": "changed name of mcps",
+    "sha": "sha256:b937eb8b433d2a3ff4649e0ca378ff0c8e46dbe4a4e1e446c34e6bfd28322ed6",
+    "version": "v20260819003214"
   }
 }
