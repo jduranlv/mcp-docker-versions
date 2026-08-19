@@ -5,9 +5,9 @@
     "version": "v20260819003214"
   },
   "mcp-aws": {
-    "release-message": "changed name of mcps",
-    "sha": "sha256:bc94a6b2e97b576951e70bb9f5309dcfb45119a682e958e00c3fe0dfb69caddd",
-    "version": "v20260819003214"
+    "release-message": "fixed mfa raced condition",
+    "sha": "sha256:f7146b4185e1fda35d44fe040c846704897db6475063ae090c81dd304c2b84b6",
+    "version": "v20260819143021"
   },
   "mcp-confluence": {
     "release-message": "changed name of mcps",
@@ -35,8 +35,8 @@
     "version": "v20260819003214"
   },
   "mcp-opensearch": {
-    "release-message": "changed name of mcps",
-    "sha": "sha256:b937eb8b433d2a3ff4649e0ca378ff0c8e46dbe4a4e1e446c34e6bfd28322ed6",
-    "version": "v20260819003214"
+    "release-message": "fixed mfa raced condition",
+    "sha": "sha256:9650832e35061ca0dd5c7ec43b24fe1f988e9f77116f6aac6b3cdc8a8e4eadb3",
+    "version": "v20260819143021"
   }
 }
